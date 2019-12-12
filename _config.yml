@@ -3,7 +3,12 @@ title: Iran University of Science and Technology
 course_name: Theory of Formal Languages and Automata
 course_description: Course description.
 course_semester: "Fall 2019"
-description: |
+description: اين درس درباره جنبه هاي نظري رشته مهندسي کامپيوتر است و ارتباط بين مسايل و زبان ها را مشخص
+مي نمايد. مباح مورد بررسي شامل مدل هاي مختلف محاسباتي، توانايي محاسباتي اين مدل ها، بيان رسمي
+مدل ها و گرامرها، خواص محاسباتي آنها و کاربردهاي آن ها است. ديگر مباح شامل مفاهيم محاسبه پذيري،
+تصميم پذيري و تز چرچ و تورين در مورد الگوريتم هاست. اين درس دانش پايه براي درسهاي کامپايلر،
+طراحي الگوريتم، نظريه محاسبات، و درسهاي مرتبط با توصيف و مدل سازي رسمي سيستم هاي کامپيوتري را
+در بر مي گيرد.
     Instructor: Zhila Sadati
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
