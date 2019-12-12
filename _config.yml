@@ -7,7 +7,7 @@ description: |
     Instructor: Zhila Sadati
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/course_template" # the subpath of your site, e.g. /blog/
+baseurl: "https://zahra-amiri.github.io/Automata_Theory" # the subpath of your site, e.g. /blog/
 url: "https://zahra-amiri.github.io/Automata_Theory/" # the base hostname & protocol for your site
 syllabus: https://zahra-amiri.github.io/Automata_Theory//syllabus/
 githubdir: 
