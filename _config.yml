@@ -4,7 +4,7 @@ course_name: Theory of Formal Languages and Automata
 course_description: "This lesson is about conceptual aspects of computer enjineering and it characterizes connection between langueges ans issues.debated subjects include diffrent types of calculations,the ability of calculating these models,official expression of models and grammar,calculation properties of these models and the useage of them.Other issues also include consepts of calculibility and theory of Church and Turing about algorithm.This lesson is the basic knowledge of Design of Algorithms and Fundamentals of Compiler Design and lesson connected with the discription and afficial model-making of computer systems"
 course_semester: "Fall 2019"
 description: |
-    Instructor: Dr Adel Rahmani
+    Instructor: Dr Hossein Rahmani
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "https://zahra-amiri.github.io/Automata_Theory" # the subpath of your site, e.g. /blog/
 url: "https://zahra-amiri.github.io/Automata_Theory/" # the base hostname & protocol for your site
