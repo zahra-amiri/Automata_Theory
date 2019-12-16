@@ -1,12 +1,7 @@
 # Site settings
 title: Iran University of Science and Technology
 course_name: Theory of Formal Languages and Automata
-course_description: "اين درس درباره جنبه هاي نظري رشته مهندسي کامپيوتر است و ارتباط بين مسايل و زبان ها را مشخص
-مي نمايد. مباح مورد بررسي شامل مدل هاي مختلف محاسباتي، توانايي محاسباتي اين مدل ها، بيان رسمي
-مدل ها و گرامرها، خواص محاسباتي آنها و کاربردهاي آن ها است. ديگر مباح شامل مفاهيم محاسبه پذيري،
-تصميم پذيري و تز چرچ و تورين در مورد الگوريتم هاست. اين درس دانش پايه براي درسهاي کامپايلر،
-طراحي الگوريتم، نظريه محاسبات، و درسهاي مرتبط با توصيف و مدل سازي رسمي سيستم هاي کامپيوتري را
-در بر مي گيرد."
+course_description: "This lesson is about conceptual aspects of computer enjineering and it characterizes connection between langueges ans issues.debated subjects include diffrent types of calculations,the ability of calculating these models,official expression of models and grammar,calculation properties of these models and the useage of them.Other issues also include consepts of calculibility and theory of Church and Turing about algorithm.This lesson is the basic knowledge of Design of Algorithms and Fundamentals of Compiler Design and lesson connected with the discription and afficial model-making of computer systems"
 course_semester: "Fall 2019"
 description: |
     Instructor: Dr Adel Rahmani
