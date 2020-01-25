@@ -4,7 +4,7 @@ course_name: Theory of Formal Languages and Automata
 course_description: Automata theory is the study of abstract machines and automata, as well as the computational problems that can be solved using them. It is a theory in theoretical computer science and discrete mathematics. The word automata comes from the Greek word αὐτόματα, which means "self-making".The figure at right illustrates a finite-state machine, which belongs to a well-known type of automaton. This automaton consists of states and transitions. As the automaton sees a symbol of input, it makes a transition to another state, according to its transition function, which takes the current state and the recent symbol as its inputs.Automata theory is closely related to formal language theory. An automaton is a finite representation of a formal language that may be an infinite set. Automata are often classified by the class of formal languages they can recognize, typically illustrated by the Chomsky hierarchy, which describes the relations between various languages and kinds of formalized logics.Automata play a major role in theory of computation, compiler construction, artificial intelligence, parsing and formal verification.
 course_semester: "Winter 2019"
 description: |
-    Instructor: <a href="http://webpages.iust.ac.ir/h_rahmani/">Dr. Hossein Rahmani</a>
+    Instructor: Dr. Hossein Rahmani
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "https://zahra-amiri.github.io/Automata_Theory" # the subpath of your site, e.g. /blog/
