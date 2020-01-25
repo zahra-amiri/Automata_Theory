@@ -5,3 +5,4 @@ permalink: /syllabus/
 ---
 
 
+![syllabus](C:\Automata_Theory\_images\s.png)
