@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Syllabus
 permalink: /syllabus/
 ---
 
 
-profile_pic: /_images/syl.jpg
-
+![syllabus](..\C:\Automata_Theory\_images\syl.jpg)
