@@ -3,6 +3,6 @@ layout: page
 permalink: /syllabus/
 ---
 
-##Syllabus
+## Syllabus
 
-![Syllabus](..\C\Automata_Theory\_images\syl.PNG)
+![Syllabus](..\..\_images\syl.PNG)
