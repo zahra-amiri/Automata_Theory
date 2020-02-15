@@ -5,4 +5,4 @@ permalink: /syllabus/
 
 ## Syllabus
 
-![Syllabus](..\..\_images\syl.PNG)
+![Syllabus](https://zahra-amiri.github.io/_images/syl.PNG)
