@@ -5,4 +5,6 @@ permalink: /syllabus/
 
 ## Syllabus
 
-![Syllabus](/_images/syl.PNG)
+<img src="syl.png"
+     alt="Markdown Monster icon"
+     style="float: center; margin-right: 10px;" />
