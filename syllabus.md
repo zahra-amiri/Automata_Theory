@@ -7,4 +7,4 @@ permalink: /syllabus/
 
 <img src="syl.jpg"
      alt="Markdown Monster icon"
-     style="float: center; margin-right: 10px;" />
+     style="float: center; margin-right: 10px;" >
